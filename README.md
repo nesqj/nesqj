@@ -1,9 +1,9 @@
-# 👋 Olá, sou @lucasgomesgp
+# 👋 Olá, me chamo Nesq
  
-Me chamo Lucas Gomes, nascido e criado no interior do Ceará, onde estudei em uma escola técnica e tive os primeiros contatos com tecnologia e principalmente com o mundo da programação.
-- 🎓 Técnico em informática
+Me chamo João Pedro, mas sou conhecido como Nesq, sou nascido e criado no interior do Ceará.
+- 🎓 Técnico em Administração
 - 👨‍💻 Desenvolvedor FrontEnd
-- 💻 Bacharel em **Sistemas de Informação** pela **Unijuazeiro/Uninassau**
+- 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IFCE**
 
 ## Minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,react,nextjs,vite,tailwind,redux,firebase,gcp,remix,aws,postgres,supabase,git,github,vercel,linux,figma,jest,cypress,vitest)](https://skillicons.dev)
