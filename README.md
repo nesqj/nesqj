@@ -6,11 +6,8 @@ Me chamo João Pedro, mas sou conhecido como Nesq, sou nascido e criado no inter
 - 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IFCE**
 
 ## Minhas habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,react,nextjs,vite,tailwind,redux,firebase,gcp,remix,aws,postgres,supabase,git,github,vercel,linux,figma,jest,cypress,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,react,nextjs,vuejs,git,github,figma)](https://skillicons.dev)
 
-## Contribuições
-![lucasgomesgp's Stats](https://github-readme-stats.vercel.app/api?username=lucasgomesgp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![lucasgomesgp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasgomesgp&theme=tokyonight&hide_border=true)
 
 ## Linguagens mais utilizadas
 ![lucasgomesgp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgomesgp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
