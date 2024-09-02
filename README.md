@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="254830.jpg"/>
+<img width=100% bottom=50px padding:25px src="254830.jpg"/>
 # 👋 Olá, me chamo Nesq
  
 Me chamo João Pedro, mas sou conhecido como Nesq.
