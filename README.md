@@ -3,8 +3,6 @@
 ## Sobre mim
 
 - 🤠 Explorando novas tecnologias e desenvolvendo soluções de software .
-- 🎓 Estudando ```IFCE```.
-- 💼 Trabalhando como ```Freelancer```.
 - 🌱 Aprendendo mais sobre ```java-script - vue.js```.
 - 💭 objetivos e progresso  ```Entender e Solucionar o proiblema da sua empresa de sofware ```.
 
