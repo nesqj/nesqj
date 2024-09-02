@@ -9,9 +9,6 @@ Me chamo João Pedro, mas sou conhecido como Nesq, sou nascido e criado no inter
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,react,nextjs,vuejs,git,github,figma)](https://skillicons.dev)
 
 
-## Linguagens mais utilizadas
-![lucasgomesgp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgomesgp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ### Onde me encontrar?
 <a href="https://www.linkedin.com/in/lucas-gomes-aab356173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://mailto:lucasgpdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
