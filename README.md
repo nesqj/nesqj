@@ -1,7 +1,6 @@
 # 👋 Olá, me chamo Nesq
  
-Me chamo João Pedro, mas sou conhecido como Nesq, sou nascido e criado no interior do Ceará.
-- 🎓 Técnico em Administração
+Me chamo João Pedro, mas sou conhecido como Nesq.
 - 👨‍💻 Desenvolvedor FrontEnd
 - 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IFCE**
 
