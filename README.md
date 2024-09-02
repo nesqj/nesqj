@@ -1,4 +1,3 @@
-<img width=100% bottom=50px src="1234.png"/>
 # 👋 Olá, me chamo Nesq
  
 Me chamo João Pedro, mas sou conhecido como Nesq.
