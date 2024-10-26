@@ -2,7 +2,7 @@
  
 Me chamo João Pedro, mas sou conhecido como Nesq.
 - 👨‍💻 Desenvolvedor FrontEnd
-- 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela ****
+- 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IFCE**
 
 ## Minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,react,nextjs,vuejs,git,github,figma)](https://skillicons.dev)
