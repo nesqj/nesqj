@@ -1,4 +1,4 @@
-# Oláa, Eu sou o nesQ
+# Oláa, Eu sou o NESQ
  
 Me chamo João Pedro, mas sou conhecido como Nesq.
 - 👨‍💻 Desenvolvedor
