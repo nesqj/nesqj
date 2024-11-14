@@ -1,6 +1,6 @@
-# Oláa, Eu sou o NESQ
+# Oláa, Eu sou o Nesq
  
-Me chamo João Pedro, mas sou conhecido como nesQ.
+Me chamo João Pedro, mas sou conhecido como Nesq.
 - 👨‍💻 Desenvolvedor
 - 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IFCE**
 
