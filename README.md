@@ -5,7 +5,7 @@
 - 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IF** -->
 
 <!--## Minhas habilidades -->
-[![My Skills](https://skillicons.dev/icons?i=vite,mysql,linux,notion,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,mysql,linux,notion,github)](https://skillicons.dev)
 
 
 <!-- ### Onde me encontrar?
