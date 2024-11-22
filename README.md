@@ -5,7 +5,7 @@ Me chamo João Pedro, mas sou conhecido como Nesq.
 - 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IF**
 
 ## Minhas habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,vite,mysql,linux,notion,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,vite,mysql,linux,docker,notion,github,figma)](https://skillicons.dev)
 
 
 ### Onde me encontrar?
