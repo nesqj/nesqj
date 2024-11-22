@@ -4,7 +4,7 @@
 - 👨🏻‍💻 Desenvolvedor
 - 💻 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **IF** -->
 
-## Minhas habilidades
+<!--## Minhas habilidades -->
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,vite,mysql,linux,notion,github,figma)](https://skillicons.dev)
 
 
